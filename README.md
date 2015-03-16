@@ -11,3 +11,8 @@ File :
 rotation3D_50120433 --> Rotations in 3D...
 
 quaternion3D_50120433 --> Quaternion Rotations...
+
+Three PNG Files: 
+When P1=P4 --> When initial point in the curve overlaps with the end point in 4-point interpolation.
+When P2=P4 --> When second point and third point are the same.
+When Hermite Curve has a slope=0 when the initial tangent vectors are equal and mirrored .
